@@ -1,5 +1,13 @@
 [
   {
+    "name": "Nita Token",
+    "address": "0x5402c48cCC1C8255d75d1Da5E0Fcf36ebe3Db299",
+    "symbol": "NITA",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "symbol": "WETH",
